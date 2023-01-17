@@ -1,7 +1,7 @@
 name: display_fluxes
 dependencies:
-  - python=3.9.7
-  - ipython=8.6.0
+  - python>=3.8
+  - ipython>=8.6.0
   - ipywidgets
   - voila=0.2.16
 channels:
