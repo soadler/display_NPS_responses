@@ -1,8 +1,10 @@
 name: display_fluxes
 dependencies:
-  - python=3.9.7
-  - ipython=8.6.0
+  - python>=3.8
+  - jupyterlab
+  - IPython
   - ipywidgets
-  - voila=0.2.16
+  - voila
 channels:
+  - pip
   - conda-forge
