@@ -1,4 +1,4 @@
-python==3.9.7
+python>=3.9.7
 ipywidgets
-voila==0.2.16
-ipython==8.6.0
+voila>=0.2.16
+ipython>=8.6.0
